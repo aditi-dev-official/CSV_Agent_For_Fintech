@@ -12,7 +12,7 @@
 
 ## 📊 Dataset Overview
 
-- 📁 Total Records: 2512  
+- 📁 Total Records: 2512 
 - 🧾 Features: 16  
 - 🏦 Channels: ATM, Branch, Online  
 - 👥 Accounts: 495+  
